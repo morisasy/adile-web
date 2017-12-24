@@ -102,7 +102,7 @@ p {
 	padding: 0;
 }
 
-#content-b li {
+#contents-b li {
 	margin-bottom: 1em;
 	background: #fff;
 	color: #333;
@@ -154,7 +154,7 @@ p {
 
 	}
 	#contents-a .content-text {
-		
+		colums:2;
 		column-gap: 2em;
 	}
 
@@ -182,7 +182,4 @@ p {
 	#contents-b li {
 		width: 31%;
 	}
-	h1, h2, h3 {
-	padding: 1em 0;
-}
 }
